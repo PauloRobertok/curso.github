@@ -1,3 +1,3 @@
 
 # Bem vindo ao curso 
-DESCRIÇÃO DO MEU README
+DESCRIÇÃO DO MEU READMEq
